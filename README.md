@@ -1,2 +1,2 @@
 # Pratama-ilman-
-H
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
